@@ -99,7 +99,7 @@ Before running this project, ensure you have the following installed:
 - **Express.js**: Web framework for Node.js
 - **MongoDB**: NoSQL database for storing blog and user data
 - **Mongoose**: MongoDB object modeling for Node.js
-- **JWT**: JSON Web Token for authentication
+- ** Multer**: For image uploads
 - **bcrypt.js**: For password hashing
 
 ## Folder Structure
